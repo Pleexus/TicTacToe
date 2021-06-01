@@ -1,2 +1,8 @@
 # Tic-Tac-Toe-game
-we create a simple tic tac toe game using python3
+A simple tic tac toe game made using python3
+
+
+# Author
+Prajwal Bisht
+
+[@Pleexus](https://github.com/Pleexus)
